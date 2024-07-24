@@ -1,0 +1,1 @@
+Creating a simple, responsive Flipkart clone involves structuring the HTML, styling it with CSS, and adding interactivity with JavaScript. This version will be basic but provide a good starting point. 
